@@ -106,3 +106,6 @@ lint/tmp/
 *.swp
 *~
 .DS_Store
+
+# Important: Keep gradle wrapper jar
+!gradle/wrapper/gradle-wrapper.jar
